@@ -1,10 +1,10 @@
-![Subax Tech logo]()
+![Subax Tech logo](assets/images/st-logo.jpeg)
 
 <h1 align="center">Subax Tech</h1>
 
 ![Mockup](assets/images/subaxtech-mockup.jpeg)
 
- [View the live project here](https://elainebroche-dev.github.io/ms1-thrive/)
+
 
 # Introduction
 Subax Tech is a web design and development company. 
