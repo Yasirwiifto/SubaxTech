@@ -1,8 +1,10 @@
-![Subax Tech logo](assets/images/st-logo.jpeg)
+
 
 <h1 align="center">Subax Tech</h1>
 
-![Mockup](assets/images/subaxtech-mockup.jpeg)
+
+
+![Mockup](assets/images/subaxtech-mock.png)
 
 
 
