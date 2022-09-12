@@ -43,9 +43,9 @@ We choose to give our clients an excellent service.
     
    # Validation check
 
-   HTML validation check
+   index page HTML validation check
    ![Mockup](assets/images/index-html-validation.png)
-   CSS validation check
+   index page CSS validation check
    ![Mockup](assets/images/index-css-validation.png)
 # Credits
 
