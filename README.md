@@ -41,6 +41,12 @@ We choose to give our clients an excellent service.
 
 -   __1 Navigation Bar__
     
+   # Validation check
+
+   HTML validation check
+   ![Mockup](assets/images/index-html-validation.png)
+   CSS validation check
+   ![Mockup](assets/images/index-css-validation.png)
 # Credits
 
 ## Code
