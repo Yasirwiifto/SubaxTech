@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+/* ----------------------------------------------------------------------------- color */
+
+   body {
+    background: white;
+    /*#16384c*/
+  }
+      #getintouch {
+    box-shadow: rgb(240, 240, 240) 5px 5px;
+    background-color: rgb(84, 82, 82);
+    color: rgb(233, 231, 231);
+    } 
+
+    .main {
+      color: white;
+    }
+
+    #logo {
+      color: #fff;
+    }
+
+    #getintouch:hover {
+      color: white;
+    }
