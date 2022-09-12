@@ -13,12 +13,14 @@ We choose to give our clients an excellent service.
 
 # User Experience
 ## Business owner goals
-As the site owner, I want my visitors to feel connected to what we offer.
-As the site owner, I want my visitors to see what we do when they first visit my website.
-As the site owner, I make sure my visitors have easy and smooth navigation so they can visit the pages they want.
+<li>As the site owner, I want my visitors to feel connected to what we offer.</li>
+<li>As the site owner, I want my visitors to see what we do when they first visit my website.</li>
+<li>As the site owner, I make sure my visitors have easy and smooth navigation so they can visit the pages they want.</li>
+
 ## User goals
-I want users to explore my website with ease.
-I want the user to visit every page and then came back to the home page by clicking the home link in the navigation.
+<li>I want users to explore my website with ease.</li>
+<li>I want the user to visit every page and then came back to the home page by clicking the home link in the navigation.</li>
+
 # Target Audience
 <li>Anyone who wanted to have a website.</li>
 <li>Anyone who wanted to have a logo.</li>
