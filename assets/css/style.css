@@ -27,3 +27,227 @@
     #getintouch:hover {
       color: white;
     }
+
+    .active {
+        color: #fafafa;
+        }
+    
+       #wwd h2 {
+        font-family: "Oswald";
+       }
+    
+       #services {
+        background-color: #fafafa;
+       }
+       
+       .star {
+        color: #e84610;
+      }
+    
+    button[type="submit"] {
+      margin-top: 15px;
+      margin-bottom: 20px;
+      color: #fafafa;
+      border-radius: 50pc;
+      background-color: rgb(56, 54, 54);
+    }
+    
+    button[type="submit"]:hover {
+      background-color: black;
+      color: white;
+    }
+    
+    footer {
+      color: #fafafa;
+    }
+    
+    
+      /* -------------------------------------------------------------------- header and logo */
+    
+          .logo {
+       float: left;
+       width: 90px;
+        margin-left: 5px;
+      }
+    
+      #logo {
+        font-family: "Oswald", sans-serif;
+        font-size: 200%;
+        text-transform: uppercase;
+        margin-top: 8px;
+        margin-left: -12px;
+        line-height: 45px;
+      }
+    
+      .nav-link {
+        font-family: "Oswald", sans-serif; 
+      }
+    
+      .main h3 {
+         max-width: 710px;
+         margin:0 auto;
+         text-align: left;
+         font-family: "Oswald";
+        font-size: 70px;
+      }
+      
+      #getintouch:hover {
+        box-shadow:
+        40.4px 63.6px 331.5px -63px rgba(88, 75, 75, 0.943);
+       background-color: rgb(85, 81, 81);
+    } 
+    
+      h3, 
+      h4 {
+        font-family: "Oswald";
+      }
+    
+    
+    
+    /* -------------------------------------------------------- main section */
+    
+      .main {
+         background: url("/assets/images/cube-yellow.png");
+        background-size: 150px;
+        background-repeat: no-repeat;
+        background-position: right;
+        background-attachment: fixed;
+      }
+    
+        /* ------------------------------------------------------ service page */
+    
+    
+    
+      .lets {
+       display: inline;
+      }
+      
+      .talk {
+        margin-left: 38%;
+        font-size: 1.1rem;
+        margin-bottom: 0.3rem;
+        font-family: "Lato", sans-serif;
+      }
+      .card-title {
+        font-family: "Oswald";
+      }
+    
+        .card-text {
+          font-size: 18px;
+          font-weight: 900;
+          font-family: "lato";
+        }
+      
+        p {
+          font-family: "Lato";
+        }
+    
+       /* ------------------------------------------------------ About page */
+    
+      .disc {
+        font-size: 20px;
+        font-family: "Lato";
+      }
+    
+    
+    /* ------------------------------------- contact page */
+    
+    
+    
+    .contact-heading {
+      font-family: "oswald", 'Times New Roman', Times, serif;
+      font-weight: 300;
+      margin-top: 25px;
+      margin-bottom: 20px;
+    }
+    
+    .contact-form {
+      padding-top: 10px;
+      margin: 0 auto;
+      max-width: 70%;
+    }
+    
+    button[type="submit"] {
+      margin-top: 15px;
+      margin-bottom: 20px;
+      border-radius: 50pc;
+    }
+    
+    /*------------------------------------------- footer */
+    
+    
+    /*-------------------------------------------------------- media query Tablets */
+    
+    @media only screen and (max-width: 992px) {
+    
+      #logo {
+        font-size: 200%;
+      }
+      
+      #getintouch {
+        box-shadow: rgb(7, 7, 7) 5px 5px;
+        background-color: rgb(5, 4, 4);
+        } 
+    
+      .main {
+        margin-top: 0;
+    }
+    
+    .main h3 {
+        margin:0 auto;
+        font-size: 30px;
+        text-align: center;
+        max-width: 70%;
+    }
+    
+    
+    .lg {
+      max-width: 200px;
+       margin-left: 2rem;
+       margin:0 auto;
+       background-size: 40px;
+      
+    }
+    
+    .talk {
+      margin-left: 36%;
+      font-size: 0.9rem;
+      margin-bottom: 0.1rem;
+    }
+    
+    
+    }
+    
+    
+    
+    
+    /* ---------------------------------------------------------- media query Mobile phones */
+    
+    @media only screen and (max-width: 370px) {
+      .main h3 {
+        font-size: 15px;
+        max-width: 100%;
+    }
+    
+    .logo {
+      width: 30px;
+    }
+    
+    #logo {
+       font-size: 1rem;
+       margin-top: 0.3rem;
+       margin-left: -12px;
+       line-height: 20px;
+    }
+    
+    .getstarted {
+      margin-top: 1rem;
+    }
+    
+    .talk {
+      margin-left: 32%;
+      font-size: 0.6rem;
+      margin-bottom: 0.3rem;
+    }
+    
+    }
