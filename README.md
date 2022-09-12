@@ -4,7 +4,7 @@
 
 
 
-![Mockup](assets/images/subaxtech-mock.png)
+![Mockup](assets/images/subaxtech-mockup1.png)
 
 
 
