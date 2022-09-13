@@ -41,6 +41,9 @@ We choose to give our clients an excellent service.
 
 -   __1 Navigation Bar__
     
+    # Wireframes
+![home page desktop wireframe](assets/wireframes/home-page-desktop.png)
+
    # Validation check
 
    index page HTML validation check
