@@ -29,7 +29,7 @@
     }
 
     .active {
-        color: #fafafa;
+        border-bottom: 1px solid #fafafa;
         }
     
        #wwd h2 {
