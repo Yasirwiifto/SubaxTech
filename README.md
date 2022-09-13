@@ -50,6 +50,28 @@ We choose to give our clients an excellent service.
 ### home page mobile
 ![home page mobile wireframe](assets/wireframes/home-page-mobile.png)
 
+
+### service page desktop
+![service page desktop wireframe](assets/wireframes/service-desktop.png)
+### service page tablet
+![service page tablet wireframe](assets/wireframes/service-tablet.png)
+### service page mobile
+![service page mobile wireframe](assets/wireframes/service-mobile.png)
+
+### about page desktop
+![about page desktop wireframe](assets/wireframes/about-desktop.png)
+### about page tablet
+![about page tablet wireframe](assets/wireframes/about-tablet.png)
+### about page mobile
+![about page mobile wireframe](assets/wireframes/about-mobile.png)
+
+### contact page desktop
+![contact page desktop wireframe](assets/wireframes/contact-desktop.png)
+### contact page tablet
+![contact page tablet wireframe](assets/wireframes/contact-tablet.png)
+### contact page mobile
+![contact page mobile wireframe](assets/wireframes/contact-mobile.png)
+
    # Validation check
 
    index page HTML validation check
