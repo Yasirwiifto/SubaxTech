@@ -175,9 +175,14 @@
     
     /*------------------------------------------- footer */
     
+.contact-info, .address, .social-links {
+  font-size: 1rem;
+  font-family: "Lato";
+}
+
 .footer-btn {
   text-align: center;
-  max-width: 5rem;
+  max-width: 7rem;
   background-color: gray;
   color: #000;
 }
