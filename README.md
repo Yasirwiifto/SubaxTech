@@ -39,7 +39,7 @@ We choose to give our clients an excellent service.
     - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Service page, we are page (about) and get in touch page (contact) and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the navbar will be collapsed. 
       ![Navbar](/assets/images/nav.png)
 
--   __1 Navigation Bar__
+-   __2 Home page__
     
     # Wireframes
 
