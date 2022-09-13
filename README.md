@@ -42,7 +42,13 @@ We choose to give our clients an excellent service.
 -   __1 Navigation Bar__
     
     # Wireframes
+
+### home page desktop
 ![home page desktop wireframe](assets/wireframes/home-page-desktop.png)
+### home page tablet
+![home page tablet wireframe](assets/wireframes/home-page-table.png)
+### home page mobile
+![home page mobile wireframe](assets/wireframes/home-page-mobile.png
 
    # Validation check
 
