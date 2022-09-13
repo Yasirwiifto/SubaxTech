@@ -175,6 +175,17 @@
     
     /*------------------------------------------- footer */
     
+.footer-btn {
+  text-align: center;
+  max-width: 5rem;
+  background-color: gray;
+  color: #000;
+}
+
+.footer-btn:hover {
+  background-color: gray;
+  color: white;
+}
     
     /*-------------------------------------------------------- media query Tablets */
     
