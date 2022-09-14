@@ -12,9 +12,7 @@
 
 
 # Introduction
-Subax Tech is a web design and development company. We help business businesses and individuals to have an online presence 
-We are a group of young innovative developers and designers.
-We choose to give our clients an excellent service.
+Subax Tech is a web design and development agency. This is just a practice of how I want to build my web agency and this idea of having a web agency the way it started was; I was talking to one of my best friends and we were discussing how to have our business and then he told me this idea and that's how it started. 
 
 # User Experience
 ## Business owner goals
