@@ -142,8 +142,14 @@ white background color  and black text color
 
 
 -   __1 Navigation link__
-I have modified the navigation because it wasn't meet my expectations. <a href="https://getbootstrap.com/docs/5.0/components/navbar/"> Responsive navigation from bootstrap</a>
+I have modified the navigation as it wasn't meet my expectations. <a href="https://getbootstrap.com/docs/5.0/components/navbar/"> Responsive navigation from bootstrap</a>
 from <a href="https://getbootstrap.com/"> Bootstrap </a>
+
+-   __2 Accordion__
+I have modified it as it wasn't meet my expectations. <a href="https://getbootstrap.com/docs/5.0/components/accordion/"> Accordion from bootstrap</a>
+from <a href="https://getbootstrap.com/"> Bootstrap </a>
+
+
 
 ## images
 
