@@ -57,7 +57,7 @@ The service I have displayed the types of services that we offer.
 
 -   __5 about page__
 
-![about page](assets/image)
+![about page](assets/images/about-page.png)
 
 
 # Wireframes
