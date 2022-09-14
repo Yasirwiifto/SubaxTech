@@ -59,6 +59,9 @@ The service I have displayed the types of services that we offer.
 
 ![about page](assets/images/about-page.png)
 
+-   __6 contact page__
+
+![contact page](assets/images/contact-page.png)
 
 # Wireframes
 
