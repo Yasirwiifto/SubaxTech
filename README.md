@@ -43,17 +43,21 @@ Subax Tech is a web design and development agency. This is just a practice of ho
 -   __2 Home page__
     The home page is the first thing the visitors will see and I displayed a little tagline below the nav bar also what we do section after the tagline.
 
+    ![home page](assets/)
+
 -   __3 Footer__
 The footer I have displayed on every page I have included three section; address, contact info and social media links.
 
-![service page](assets/images/footer-section.png)
+![footer page](assets/images/footer-section.png)
 
 -   __4 Service page__
 The service I have displayed the types of services that we offer.
 
 ![service page](assets/images/service-page.png)
 
+-   __5 about page__
 
+![about page](assets/images)
 # Wireframes
 
 ### home page desktop
