@@ -43,7 +43,10 @@ We choose to give our clients an excellent service.
       ![Navbar](/assets/images/nav.png)
 
 -   __2 Home page__
-    
+    The home page is the first thing the visitors will see and I displayed a little tagline below the nav bar also what we do section after the tagline.
+
+-   __2 Footer__
+The footer I have displayed on every page I have included three section; address, contact info and social media links.
     # Wireframes
 
 ### home page desktop
