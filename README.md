@@ -95,9 +95,10 @@ white background color  and black text color
    <li>Bootstrap</li>
 
 
+
+
+
    # Validation check
-
-
    index page HTML validation check
    ![Mockup](assets/images/index-html-validation.png)
    index page CSS validation check
