@@ -12,7 +12,7 @@
 
 
 # Introduction
-Subax Tech is a web design and development agency. This is just a practice of how I want to build my web agency and this idea of having a web agency the way it started was; I was talking to one of my best friends and we were discussing how to have our business and then he told me this idea and that's how it started. 
+Subax Tech is a web design and development agency. This is just a practice of how I want to build my web agency. This idea of having a web agency the way it started was; I was talking to one of my best friends and we were discussing how to have our business and then he told me this idea and that's how it started. 
 
 # User Experience
 ## Business owner goals
@@ -45,6 +45,7 @@ Subax Tech is a web design and development agency. This is just a practice of ho
 
 -   __3 Footer__
 The footer I have displayed on every page I have included three section; address, contact info and social media links.
+
 [service page](assets/images/footer-section.png)
 
 -   __4 Service page__
