@@ -43,8 +43,13 @@ Subax Tech is a web design and development agency. This is just a practice of ho
 -   __2 Home page__
     The home page is the first thing the visitors will see and I displayed a little tagline below the nav bar also what we do section after the tagline.
 
--   __2 Footer__
+-   __3 Footer__
 The footer I have displayed on every page I have included three section; address, contact info and social media links.
+
+-   __4 Service page__
+The service I have displayed the types of services that we offer.
+
+![service page](assets/images/service-page.png)
     # Wireframes
 
 ### home page desktop
@@ -148,4 +153,4 @@ In the GitHub repository navigate to the Settings tab
 On the left hand menu select Pages
 For the source select: Deploy form a branch
 For the branch select: main
-After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is live at https://yasirwiifto.github.io/SubaxTech/"
+After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is live at https://yasirwiifto.github.io/SubaxTech/
