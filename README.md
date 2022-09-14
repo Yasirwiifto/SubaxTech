@@ -7,6 +7,8 @@
 ![Mockup](assets/images/subaxtech-mockup1.png)
 
 
+<a href="https://yasirwiifto.github.io/SubaxTech/" target="_blank"> Click to see the website</a>
+
 
 # Introduction
 Subax Tech is a web design and development company. We help business businesses and individuals to have an online presence 
