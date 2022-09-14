@@ -72,12 +72,40 @@ We choose to give our clients an excellent service.
 ### contact page mobile
 ![contact page mobile wireframe](assets/wireframes/contact-mobile.png)
 
+# Design
+
+## fonts
+ <li>Oswald</li>
+ <li>Lato</li>
+
+ ## color 
+ black background color and white text color
+white background color  and black text color
+
+# Technology used
+<li>Balsamiq for the wireframes</li>
+<li>Fontawsome for the icons</li>
+<li>Google fonts for the font style</li>
+
+
+ # Languages used to build this web
+
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>Bootstrap</li>
+
+
    # Validation check
+
 
    index page HTML validation check
    ![Mockup](assets/images/index-html-validation.png)
    index page CSS validation check
    ![Mockup](assets/images/index-css-validation.png)
+
+  
+
+
 # Credits
 
 ## Code
