@@ -89,26 +89,31 @@ white background color  and black text color
 <li>Balsamiq for the wireframes</li>
 <li>Fontawsome for the icons</li>
 <li>Google fonts for the font style</li>
+<li>GitHub</li>
+<li>Git </li>
+<li>Gitpod</li>
+<li>Adobe photoshop </li>
+<li>Adoper Illustrator </li>
 
 
- # Languages used to build this web
+ # Languages and frameworks used to build this web
 
    <li>HTML</li>
    <li>CSS</li>
-   <li>Bootstrap</li>
+   <li>Bootstrap 5</li>
 
 
 
 
 
    # Validation check
-   
+
    <a href="https://validator.w3.org/nu/#textarea"> index page HTML validation check</a>
 
    <a href="https://jigsaw.w3.org/css-validator/validator">index page CSS validation check</a> 
 
 
-  
+
 
 
 # Credits
