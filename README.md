@@ -1,6 +1,7 @@
-
-
 <h1 align="center">Subax Tech</h1>
+
+
+
 
 
 
@@ -101,10 +102,11 @@ white background color  and black text color
 
 
    # Validation check
-   index page HTML validation check
-   ![Mockup](assets/images/index-html-validation.png)
-   index page CSS validation check
-   ![Mockup](assets/images/index-css-validation.png)
+   
+   <a href="https://validator.w3.org/nu/#textarea"> index page HTML validation check</a>
+
+   <a href="https://jigsaw.w3.org/css-validator/validator">index page CSS validation check</a> 
+
 
   
 
@@ -122,6 +124,7 @@ from <a href="https://getbootstrap.com/"> Bootstrap </a>
 ## images
 
  ### Images of What we do section: 
+
 -   __1 Brand Identity link__
 <a href="https://www.freepik.com/free-vector/branding-concept-landing-page_4660417.htm?query=brand%20identity">Brand Identity</a> on <a href=" https://www.freepik.com">Freepik</a>
 
