@@ -139,3 +139,13 @@ from <a href="https://getbootstrap.com/"> Bootstrap </a>
 
 -   __3 UI/UX design link__
 <a href="https://www.freepik.com/free-vector/content-structure-concept-illustration_13246584.htm?query=ui%20designer">UI/UX design</a> on <a href=" https://www.freepik.com">Freepik</a>
+
+# Depleyment
+
+The website was deployed using GitHub Pages by following these steps:
+
+In the GitHub repository navigate to the Settings tab
+On the left hand menu select Pages
+For the source select: Deploy form a branch
+For the branch select: main
+After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is live at https://yasirwiifto.github.io/SubaxTech/"
