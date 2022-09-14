@@ -54,7 +54,7 @@ The service I have displayed the types of services that we offer.
 ![service page](assets/images/service-page.png)
 
 
-    # Wireframes
+# Wireframes
 
 ### home page desktop
 ![home page desktop wireframe](assets/wireframes/home-page-desktop.png)
