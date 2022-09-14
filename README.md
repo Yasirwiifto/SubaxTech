@@ -45,11 +45,14 @@ Subax Tech is a web design and development agency. This is just a practice of ho
 
 -   __3 Footer__
 The footer I have displayed on every page I have included three section; address, contact info and social media links.
+[service page](assets/images/footer-section.png)
 
 -   __4 Service page__
 The service I have displayed the types of services that we offer.
 
 ![service page](assets/images/service-page.png)
+
+
     # Wireframes
 
 ### home page desktop
