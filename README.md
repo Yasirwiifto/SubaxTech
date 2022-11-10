@@ -38,7 +38,7 @@
 <details>
 <summary> Navigation bar</summary>
     - Logo andnavigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Service page, we are page (about) and get in touch page (contact) and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the navbar will be collapsed. 
-
+  <br>
   ![Navbar](/assets/images/nav.png)
   </details>
 
@@ -53,14 +53,14 @@
 
 <details>
 <summary>Footer </summary>
-The footer I have displayed on every page I have included three section; address, contact info and social media links.
+<br>
 
 ![footer page](assets/images/footer-section.png)
 </details>
 
 <details>
 <summary> Service page</summary>
-The service I have displayed the types of services that we offer.
+<br>
 
 ![service page](assets/images/service-page.png)
 </details>
@@ -73,6 +73,7 @@ The service I have displayed the types of services that we offer.
 
 <details>
 <summary> About page</summary>
+<br>
 
 ![about page](assets/images/about-page.png)
 </details>
@@ -84,8 +85,12 @@ The service I have displayed the types of services that we offer.
 
 ## home page deskop
 ![home page desktop wireframe](assets/wireframes/home-page-desktop.png)
+<br>
+
 ### home page tablet
 ![home page tablet wireframe](assets/wireframes/home-page-table.png)
+<br>
+
 ### home page mobile
 ![home page mobile wireframe](assets/wireframes/home-page-mobile.png)
 </details>
@@ -95,8 +100,12 @@ The service I have displayed the types of services that we offer.
 
 ### service page desktop
 ![service page desktop wireframe](assets/wireframes/service-desktop.png)
+<br>
+
 ### service page tablet
 ![service page tablet wireframe](assets/wireframes/service-tablet.png)
+<br>
+
 ### service page mobile
 ![service page mobile wireframe](assets/wireframes/service-mobile.png)
 </details>
@@ -106,8 +115,12 @@ The service I have displayed the types of services that we offer.
 
 ### we are page desktop
 ![we are page desktop wireframe](assets/wireframes/about-desktop.png)
+<br>
+
 ### we are page tablet
 ![we are tablet wireframe](assets/wireframes/about-tablet.png)
+<br>
+
 ### we are page mobile
 ![about page mobile wireframe](assets/wireframes/about-mobile.png)
 </details>
@@ -117,8 +130,12 @@ The service I have displayed the types of services that we offer.
 
 ### Get in Touch page desktop
 ![Get in Touch page desktop wireframe](assets/wireframes/contact-desktop.png)
+<br>
+
 ### Get in Touch page tablet
 ![Get in Touch page tablet wireframe](assets/wireframes/contact-tablet.png)
+<br>
+
 ### Get in Touchpage mobile
 ![Get in Touch page mobile wireframe](assets/wireframes/contact-mobile.png)
 
