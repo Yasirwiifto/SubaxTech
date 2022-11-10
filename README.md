@@ -11,8 +11,9 @@
 <a href="https://yasirwiifto.github.io/SubaxTech/" target="_blank"> Click to see the website</a>
 
 
-# Introduction
-Subax Tech is a web design and development agency. This is just a practice of how I want to build my web agency. This idea of having a web agency the way it started was; I was talking to one of my best friends and we were discussing how to have our business and then he told me this idea and that's how it started. 
+# Subax Tech
+ Subax Tech is a web design and development agency. This is just a practice of how I want to build my web agency. This idea of having a web agency the way it started was; I was talking to one of my best friends and we were discussing how to have our business and then he told me this idea and that's how it started.
+
 
 # User Experience
 ## Business owner goals
@@ -35,43 +36,59 @@ Subax Tech is a web design and development agency. This is just a practice of ho
 # Features:
 ## Existing Features
 
--   __1 Navigation bar__
-
+<details>
+<summary> Navigation bar</summary>
     - Logo andnavigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Service page, we are page (about) and get in touch page (contact) and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the navbar will be collapsed. 
       ![Navbar](/assets/images/nav.png)
+  </details>
 
--   __2 Home page__
+<details>
+<summary>Home page  </summary>
     The home page is the first thing the visitors will see and I displayed a little tagline below the nav bar also what we do section after the tagline.
 
     ![home page](assets/images/home-page.png)
+</details>
 
--   __3 Footer__
+<details>
+<summary>Footer </summary>
 The footer I have displayed on every page I have included three section; address, contact info and social media links.
 
 ![footer page](assets/images/footer-section.png)
+</details>
 
--   __4 Service page__
+<details>
+<summary> Service page</summary>
 The service I have displayed the types of services that we offer.
 
 ![service page](assets/images/service-page.png)
+</details>
+<details>
+<summary> Contact page </summary>
+<br>
+![contact page](assets/images/contact-page.png)
+</details>
 
--   __5 about page__
+<details>
+<summary> About page</summary>
 
 ![about page](assets/images/about-page.png)
-
--   __6 contact page__
-
-![contact page](assets/images/contact-page.png)
+</details>
 
 # Wireframes
 
-### home page desktop
+<details>
+<summary> Home page</summary>
+
+## home page deskop
 ![home page desktop wireframe](assets/wireframes/home-page-desktop.png)
 ### home page tablet
 ![home page tablet wireframe](assets/wireframes/home-page-table.png)
 ### home page mobile
 ![home page mobile wireframe](assets/wireframes/home-page-mobile.png)
+</details>
 
+<details>
+<summary> Service page</summary>
 
 ### service page desktop
 ![service page desktop wireframe](assets/wireframes/service-desktop.png)
@@ -79,20 +96,32 @@ The service I have displayed the types of services that we offer.
 ![service page tablet wireframe](assets/wireframes/service-tablet.png)
 ### service page mobile
 ![service page mobile wireframe](assets/wireframes/service-mobile.png)
+</details>
 
-### about page desktop
-![about page desktop wireframe](assets/wireframes/about-desktop.png)
-### about page tablet
-![about page tablet wireframe](assets/wireframes/about-tablet.png)
-### about page mobile
+<details>
+<summary> We are page</summary>
+
+### we are page desktop
+![we are page desktop wireframe](assets/wireframes/about-desktop.png)
+### we are page tablet
+![we are tablet wireframe](assets/wireframes/about-tablet.png)
+### we are page mobile
 ![about page mobile wireframe](assets/wireframes/about-mobile.png)
+</details>
 
-### contact page desktop
-![contact page desktop wireframe](assets/wireframes/contact-desktop.png)
-### contact page tablet
-![contact page tablet wireframe](assets/wireframes/contact-tablet.png)
-### contact page mobile
-![contact page mobile wireframe](assets/wireframes/contact-mobile.png)
+<details>
+<summary> Get in Touch page</summary>
+
+### Get in Touch page desktop
+![Get in Touch page desktop wireframe](assets/wireframes/contact-desktop.png)
+### Get in Touch page tablet
+![Get in Touch page tablet wireframe](assets/wireframes/contact-tablet.png)
+### Get in Touchpage mobile
+![Get in Touch page mobile wireframe](assets/wireframes/contact-mobile.png)
+
+</details>
+
+</br>
 
 # Design
 
