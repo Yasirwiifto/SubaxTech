@@ -38,7 +38,8 @@
 <details>
 <summary> Navigation bar</summary>
     - Logo andnavigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Service page, we are page (about) and get in touch page (contact) and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the navbar will be collapsed. 
-    ![Navbar](/assets/images/nav.png)
+
+  ![Navbar](/assets/images/nav.png)
   </details>
 
 <details>
@@ -46,7 +47,8 @@
     </br>
     The home page is the first thing the visitors will see and I displayed a little tagline below the nav bar also what we do section after the tagline.
     <br>
-    ![home page](assets/images/home-page.png)
+  
+  ![home page](assets/images/home-page.png)
 </details>
 
 <details>
@@ -65,6 +67,7 @@ The service I have displayed the types of services that we offer.
 <details>
 <summary> Contact page </summary>
 <br>
+
 ![contact page](assets/images/contact-page.png)
 </details>
 
