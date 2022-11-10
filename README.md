@@ -1,29 +1,28 @@
 <h1 align="center">Subax Tech</h1>
-
-
-
-
-
+<br>
 
 ![Mockup](assets/images/subaxtech-mockup1.png)
-
-
+<br>
 <a href="https://yasirwiifto.github.io/SubaxTech/" target="_blank"> Click to see the website</a>
-
+<br>
 
 # Subax Tech
  Subax Tech is a web design and development agency. This is just a practice of how I want to build my web agency. This idea of having a web agency the way it started was; I was talking to one of my best friends and we were discussing how to have our business and then he told me this idea and that's how it started.
-
+ 
+ <br>
 
 # User Experience
+## User stories
+
+<li>As a user, I want to easily understand the main purpose of the site and learn more about the organisation.</li>
+<li>As a user, I want to be able to easily navigate throughout the link navigation to find content.</li>
+<li>As a user, I want to be able to easily navigate to and view a content.</li>
+<li>As a user, I want to be able to easily contact the oragnisation.</li>
+
 ## Business owner goals
 <li>As the site owner, I want my visitors to feel connected to what we offer.</li>
 <li>As the site owner, I want my visitors to see what we do when they first visit my website.</li>
-<li>As the site owner, I make sure my visitors have easy and smooth navigation so they can visit the pages they want.</li>
-
-## User goals
-<li>I want users to explore my website with ease.</li>
-<li>I want the user to visit every page and then came back to the home page by clicking the home link in the navigation.</li>
+<li>As the site owner, I make sure my visitors have easy and smooth navigation so they can visit the pages they want.</li
 
 # Target Audience
 <li>Anyone who wanted to have a website.</li>
@@ -39,13 +38,14 @@
 <details>
 <summary> Navigation bar</summary>
     - Logo andnavigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Service page, we are page (about) and get in touch page (contact) and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the navbar will be collapsed. 
-      ![Navbar](/assets/images/nav.png)
+    ![Navbar](/assets/images/nav.png)
   </details>
 
 <details>
 <summary>Home page  </summary>
+    </br>
     The home page is the first thing the visitors will see and I displayed a little tagline below the nav bar also what we do section after the tagline.
-
+    <br>
     ![home page](assets/images/home-page.png)
 </details>
 
@@ -121,7 +121,7 @@ The service I have displayed the types of services that we offer.
 
 </details>
 
-</br>
+<br>
 
 # Design
 
@@ -142,33 +142,25 @@ white background color  and black text color
 <li>Gitpod</li>
 <li>Adobe photoshop </li>
 <li>Adoper Illustrator </li>
-
+<br>
 
  # Languages and frameworks used to build this web
 
    <li>HTML</li>
    <li>CSS</li>
-   <li>Bootstrap 5</li>
-
-
-
-
+   <br>
 
    # Validation check
 
    <a href="https://validator.w3.org/nu/#textarea"> index page HTML validation check</a>
 
    <a href="https://jigsaw.w3.org/css-validator/validator">index page CSS validation check</a> 
-
-
-
-
+   <br>
 
 # Credits
 
 ## Code
-
-
+<br>
 
 -   __1 Navigation link__
 I have modified the navigation as it wasn't meet my expectations. <a href="https://getbootstrap.com/docs/5.0/components/navbar/"> Responsive navigation from bootstrap</a>
@@ -177,8 +169,7 @@ from <a href="https://getbootstrap.com/"> Bootstrap </a>
 -   __2 Accordion__
 I have modified it as it wasn't meet my expectations. <a href="https://getbootstrap.com/docs/5.0/components/accordion/"> Accordion from bootstrap</a>
 from <a href="https://getbootstrap.com/"> Bootstrap </a>
-
-
+<br>
 
 ## images
 
