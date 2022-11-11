@@ -143,6 +143,17 @@
 
 <br>
 
+# Testing 
+<details>
+<summary> About page</summary>
+<br>
+
+![testing 1](assets/images/testing1.png)
+<br>
+
+![testing 2](assets/images/testing2.png)
+</details>
+
 # Design
 
 ## fonts
