@@ -145,7 +145,7 @@
 
 # Testing 
 <details>
-<summary> About page</summary>
+<summary> Manual Testing </summary>
 <br>
 
 ![testing 1](assets/images/testing1.png)
