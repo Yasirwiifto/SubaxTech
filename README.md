@@ -22,9 +22,10 @@
 ## Business owner goals
 <li>As the site owner, I want my visitors to feel connected to what we offer.</li>
 <li>As the site owner, I want my visitors to see what we do when they first visit my website.</li>
-<li>As the site owner, I make sure my visitors have easy and smooth navigation so they can visit the pages they want.</li
+<li>As the site owner, I make sure my visitors have easy and smooth navigation so they can visit the pages they want.</li>
 
 # Target Audience
+
 <li>Anyone who wanted to have a website.</li>
 <li>Anyone who wanted to have a logo.</li>
 <li>Anyone who wanted to have a brand identity.</li>
@@ -39,6 +40,7 @@
 <summary> Navigation bar</summary>
     - Logo andnavigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Service page, we are page (about) and get in touch page (contact) and is responsive on multiple screen sizes.  On small screens (e.g. mobile devices) the navbar will be collapsed. 
   <br>
+
   ![Navbar](/assets/images/nav.png)
   </details>
 
@@ -64,6 +66,7 @@
 
 ![service page](assets/images/service-page.png)
 </details>
+
 <details>
 <summary> Contact page </summary>
 <br>
@@ -171,14 +174,19 @@ white background color  and black text color
    <br>
 
 # frameworks
- Bootstrap 5
+
+ <li> Bootstrap 5 </li>
+ <br>
  
-   # Validation check
+   # Testing
+   
+   HTML and CSS code were validated with the W3C Markup and CSS validators. Both were found to have no errors or warnings. Reports can be seen below:
 
    <a href="https://validator.w3.org/nu/#textarea"> index page HTML validation check</a>
 
    <a href="https://jigsaw.w3.org/css-validator/validator">index page CSS validation check</a> 
    <br>
+
 
 # Credits
 
