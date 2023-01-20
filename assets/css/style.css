@@ -9,7 +9,6 @@
 
 body {
   background: white;
-  /*#16384c*/
 }
 
 #getintouch {
@@ -63,7 +62,6 @@ footer {
   color: #fafafa;
 }
 
-
 /* -------------------------------------------------------------------- header and logo */
 
 .logo {
@@ -104,8 +102,6 @@ h4 {
   font-family: "Oswald";
 }
 
-
-
 /* -------------------------------------------------------- main section */
 
 .main {
@@ -117,8 +113,6 @@ h4 {
 }
 
 /* ------------------------------------------------------ service page */
-
-
 
 .lets {
   display: inline;
@@ -152,10 +146,7 @@ p {
   font-family: "Lato";
 }
 
-
 /* ------------------------------------- contact page */
-
-
 
 .contact-heading {
   font-family: "oswald", 'Times New Roman', Times, serif;
@@ -221,7 +212,6 @@ button[type="submit"] {
     max-width: 70%;
   }
 
-
   .lg {
     max-width: 200px;
     margin-left: 2rem;
@@ -236,11 +226,7 @@ button[type="submit"] {
     margin-bottom: 0.1rem;
   }
 
-
 }
-
-
-
 
 /* ---------------------------------------------------------- media query Mobile phones */
 
