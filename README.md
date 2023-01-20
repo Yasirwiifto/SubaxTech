@@ -226,8 +226,7 @@ white background color  and black text color
 <br>
 
 <details>
-<summary>Get in touch </summary>
-<br>
+<summary> Get in Touch page</summary>
 
 ![Get in touch page](assets/test-images/getintouch.png)
 
