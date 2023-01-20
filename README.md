@@ -189,7 +189,55 @@ white background color  and black text color
 
 ## manual testing 
 
-![Home page](assets/wireframes/about-desktop.png)
+<details>
+<summary> Home page</summary>
+<br>
+
+![home page](assets/test-images/Home.png)
+
+![footer ](assets/test-images//Footer.png)
+
+</details>
+
+<br>
+
+<details>
+<summary>Service page</summary>
+<br>
+
+![Service page](assets/test-images/service1.png)
+
+![Service page](assets/test-images/service2.png)
+
+![footer ](assets/test-images//Footer.png)
+</details>
+
+<br>
+
+<details>
+<summary> We are page</summary>
+<br>
+
+![We are page](assets/test-images/We-are.png)
+
+![footer ](assets/test-images//Footer.png)
+</details>
+
+<br>
+
+<details>
+<summary> </summary>
+<br>
+
+![Get in touch page](assets/test-images/getintouch.png)
+
+![Get in touch page](assets/test-images/getintouch2.png)
+
+![footer ](assets/test-images//Footer.png)
+
+</details>
+
+<br>
 
 # Credits
 
