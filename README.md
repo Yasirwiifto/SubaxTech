@@ -187,6 +187,9 @@ white background color  and black text color
    <a href="https://jigsaw.w3.org/css-validator/validator">index page CSS validation check</a> 
    <br>
 
+## manual testing 
+
+![Home page](assets/wireframes/about-desktop.png)
 
 # Credits
 
