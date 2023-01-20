@@ -238,6 +238,35 @@ white background color  and black text color
 
 <br>
 
+## Responsive testing
+
+### Desktop testing:
+
+Platforms:
+Responsive design checker
+Browsers:
+Chrome
+Firefox
+Edge
+Opera
+
+### Tablet
+
+platform:
+Apple Ipad mini
+Browsers:
+Chrome
+Edge
+Opera
+### Mobile testing:
+
+Platforms:
+Apple Iphone 13pro max
+Browsers:
+Chrome
+Edge
+Opera
+
 # Credits
 
 ## Code
