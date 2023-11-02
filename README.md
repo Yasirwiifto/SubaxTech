@@ -146,6 +146,17 @@
 
 <br>
 
+# Testing 
+<details>
+<summary> Manual Testing </summary>
+<br>
+
+![testing 1](assets/images/testing1.png)
+<br>
+
+![testing 2](assets/images/testing2.png)
+</details>
+
 # Design
 
 ## fonts
